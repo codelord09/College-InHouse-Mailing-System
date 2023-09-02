@@ -61,7 +61,7 @@ const ComposeMail = ({ open, setOpenDrawer }) => {
         Username: 'guptneer09@gmail.com' ,
         Password: '25DE9ACECF2742D824E28845419C99413B73',
         Host: 'smtp.elasticemail.com',
-        Port: 2525,
+        Port: 587,
     }
 
     const onValueChange = (e) => {
